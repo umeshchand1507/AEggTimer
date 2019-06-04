@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EggTimer</string>
+    <string name="btn_controller_title">Go!</string>
+</resources>
